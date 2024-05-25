@@ -26,63 +26,63 @@ const app = {
     {
       name: "Vùng Đất Linh Hồn",
       singer: "The Cassette",
-      path: "../musics/The Cassette - Vùng Đất Linh Hồn (Official Lyric Video).mp3",
-      image: "../images/images.jpg"
+      path: "musics/The Cassette - Vùng Đất Linh Hồn (Official Lyric Video).mp3",
+      image: "images/images.jpg"
     },
     {
       name: "Treo (2:00 AM)",
       singer: "The Cassette",
-      path: "../musics/The Cassette - Treo (2-00 AM) (Official Lyric Video).mp3",
+      path: "musics/The Cassette - Treo (2-00 AM) (Official Lyric Video).mp3",
       image:
-        "../images/Treo.jpg"
+        "images/Treo.jpg"
     },
     {
       name: "Soạn",
       singer: "The Cassette",
-      path: "../musics/The Cassette - Soan (Official Lyric Video).mp3",
-      image: "../images/Soạn.jpg"
+      path: "musics/The Cassette - Soan (Official Lyric Video).mp3",
+      image: "images/Soạn.jpg"
     },
     {
       name: "Mấy Khi",
       singer: "The Flob",
-      path: "../musics/MẤY KHI - The Flob (Official 4K M-V).mp3",
-      image: "../images/Mấy_khi.jpg"
+      path: "musics/MẤY KHI - The Flob (Official 4K M-V).mp3",
+      image: "images/Mấy_khi.jpg"
     },
     {
       name: "Đoạn Kết Mới",
       singer: "Hoàng Dũng",
-      path: "../musics/HOÀNG DŨNG - ĐOẠN KẾT MỚI - OFFICIAL AUDIO.mp3",
-      image: "../images/Đoạn_kết_mới.jpg"
+      path: "musics/HOÀNG DŨNG - ĐOẠN KẾT MỚI - OFFICIAL AUDIO.mp3",
+      image: "images/Đoạn_kết_mới.jpg"
     },
     {
       name: "Lần Cuối (đi bên em xót xa người ơi)",
       singer: "Ngọt",
-      path: "../musics/Ngọt - LẦN CUỐI (đi bên em xót xa người ơi).mp3",
-      image: "../images/Lần_cuối.jpg"
+      path: "musics/Ngọt - LẦN CUỐI (đi bên em xót xa người ơi).mp3",
+      image: "images/Lần_cuối.jpg"
     },
     {
       name: "Chốn Sa Mạc",
       singer: "Minh Tốc và Lam",
-      path: "../musics/Chốn Sa Mạc.mp3",
-      image: "../images/Chốn_sa_mạc.jpg"
+      path: "musics/Chốn Sa Mạc.mp3",
+      image: "images/Chốn_sa_mạc.jpg"
     },
     {
       name: "Những Giai Điệu Khác 2",
       singer: "Minh Tốc và Lam",
-      path: "../musics/Những Giai Điệu Khác 2.mp3",
-      image: "../images/Những_giai_điệu_khác_2.jpg"
+      path: "musics/Những Giai Điệu Khác 2.mp3",
+      image: "images/Những_giai_điệu_khác_2.jpg"
     },
     {
       name: "Lối Nhỏ",
       singer: "Đen, Phương Anh Đào",
-      path: "../musics/Đen - Lối Nhỏ ft. Phương Anh Đào (M-V).mp3",
-      image: "../images/Lối_nhỏ.jpg"
+      path: "musics/Đen - Lối Nhỏ ft. Phương Anh Đào (M-V).mp3",
+      image: "images/Lối_nhỏ.jpg"
     },
     {
       name: "Diễn Viên Tồi",
       singer: "Đen, Thành Bùi, Cadillac",
-      path: "../musics/Đen - Diễn viên tồi ft. Thành Bùi, Cadillac (M-V).mp3",
-      image: "../images/Diễn_viên_tồi.jpg"
+      path: "musics/Đen - Diễn viên tồi ft. Thành Bùi, Cadillac (M-V).mp3",
+      image: "images/Diễn_viên_tồi.jpg"
     }
   ],
   setConfig: function (key, value) {
